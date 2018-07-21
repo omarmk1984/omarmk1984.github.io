@@ -1758,30 +1758,40 @@ body {
 .cid-qYr2aIgtGC {
   background-image: url("../../../assets/images/mbr-1920x960.jpg");
 }
-.cid-qYsj0XQpCD {
-  padding-top: 30px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
+.cid-qYstU0RDQk {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
 }
-.cid-qYsj0XQpCD h3 {
-  text-align: center;
-}
-.cid-qYsj0XQpCD .mbr-section-subtitle {
-  color: #767676;
+.cid-qYstU0RDQk h3 {
   font-weight: 300;
 }
-.cid-qYsj0XQpCD .mbr-content-text {
+.cid-qYstU0RDQk .card-img {
+  width: initial;
+}
+.cid-qYstU0RDQk .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-qYstU0RDQk .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  height: 100%;
+}
+.cid-qYstU0RDQk .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qYstU0RDQk .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qYsj0XQpCD .panel-item {
-  background: #ffffff;
+.cid-qYstU0RDQk .mbr-text {
+  color: #767676;
 }
-.cid-qYsj0XQpCD .card {
-  word-wrap: break-word;
-}
-.cid-qYsj0XQpCD .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-qYstU0RDQk .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
 }
 .cid-qYskHjho5R {
   padding-top: 15px;
@@ -2108,5 +2118,134 @@ body {
   .cid-qYsaDNzdmW .carousel-inner.slides6 .cloneditem-4,
   .cid-qYsaDNzdmW .carousel-inner.slides6 .cloneditem-5 {
     display: block;
+  }
+}
+.cid-qYsqKlkewv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qYsqKlkewv .title {
+  margin-bottom: 2rem;
+}
+.cid-qYsqKlkewv .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qYsqKlkewv a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qYsqKlkewv a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qYsqKlkewv .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qYsqKlkewv .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-qYsr696XPE {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qYsr696XPE .content {
+    text-align: center;
+  }
+  .cid-qYsr696XPE .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qYsr696XPE .img-logo img {
+  height: 6rem;
+}
+.cid-qYsr696XPE [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qYsr696XPE .input-group-btn {
+  display: inline-block;
+}
+.cid-qYsr696XPE .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qYsr696XPE .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qYsr696XPE [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+}
+.cid-qYsr696XPE .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qYsr696XPE .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qYsr696XPE .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qYsr696XPE .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qYsr696XPE .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qYsr696XPE .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qYsr696XPE .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qYsr696XPE .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qYsr696XPE form .input-group input.form-control,
+.cid-qYsr696XPE form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.cid-qYsr696XPE .form-inline {
+  justify-content: center;
+}
+.cid-qYsr696XPE .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-qYsr696XPE .foot-logo {
+    text-align: center !important;
+  }
+  .cid-qYsr696XPE .foot-title {
+    text-align: center !important;
+  }
+  .cid-qYsr696XPE .mbr-text {
+    text-align: center !important;
   }
 }
